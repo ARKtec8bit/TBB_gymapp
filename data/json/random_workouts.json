@@ -1,0 +1,103 @@
+{
+  "Shoulders": [
+    { "exercise": "Shoulder Press", "sets": 2, "reps": 10, "weight": 20 },
+    { "exercise": "Lateral Raise", "sets": 2, "reps": 15, "weight": 10 },
+    { "exercise": "Front Raise", "sets": 2, "reps": 15, "weight": 10 },
+    { "exercise": "Upright Row", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Rear Delt Fly", "sets": 2, "reps": 15, "weight": 10 },
+    { "exercise": "Landmine Press", "sets": 2, "reps": 10, "weight": 20 },
+    { "exercise": "Landmine Shoulder Press", "sets": 2, "reps": 10, "weight": 20 },
+    { "exercise": "Arnold Press", "sets": 2, "reps": 10, "weight": 20 }
+],
+  "Chest": [
+    { "exercise": "Bench Press", "sets": 2, "reps": 10, "weight": 40 },
+    { "exercise": "Chest Fly", "sets": 2, "reps": 12, "weight": 15 },
+    { "exercise": "Incline Bench Press", "sets": 2, "reps": 10, "weight": 30 },
+    { "exercise": "Decline Bench Press", "sets": 2, "reps": 10, "weight": 30 },
+    { "exercise": "Cable Crossover", "sets": 2, "reps": 12, "weight": 15 },
+    { "exercise": "Push-up", "sets": 2, "reps": 15, "weight": 0 },
+    { "exercise": "Landmine Chest Press", "sets": 2, "reps": 10, "weight": 20 }
+  ],
+  "Biceps": [
+    { "exercise": "Bicep Curl", "sets": 2, "reps": 12, "weight": 12 },
+    { "exercise": "Hammer Curl", "sets": 2, "reps": 12, "weight": 10 },
+    { "exercise": "Preacher Curl", "sets": 2, "reps": 12, "weight": 10 }
+  ],
+  "Triceps": [
+    { "exercise": "Tricep Pushdown", "sets": 2, "reps": 12, "weight": 15 },
+    { "exercise": "Tricep Dips", "sets": 2, "reps": 15, "weight": 0 },
+    { "exercise": "Skull Crusher", "sets": 2, "reps": 12, "weight": 15 },
+    { "exercise": "Tricep Extension", "sets": 2, "reps": 12, "weight": 15 },
+    { "exercise": "Tricep Kickback", "sets": 2, "reps": 12, "weight": 10 }
+  ],
+  "Back": [
+    { "exercise": "Pull-up", "sets": 2, "reps": 10, "weight": 0 },
+    { "exercise": "Bent-over Row", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "T-Bar Row", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Lat Pulldown", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Cable Row", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Face Pull", "sets": 2, "reps": 15, "weight": 10 },
+    { "exercise": "Shrug", "sets": 2, "reps": 15, "weight": 20 },
+    { "exercise": "Landmine Row", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Landmine Single-Arm Row", "sets": 2, "reps": 12, "weight": 20 }
+  ],
+  "Quads": [
+    { "exercise": "Squat", "sets": 4, "reps": 10, "weight": 50 },
+    { "exercise": "Leg Press", "sets": 2, "reps": 12, "weight": 60 },
+    { "exercise": "Landmine Squat", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Landmine Split Squat", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Front Squat", "sets": 2, "reps": 12, "weight": 40 }
+  ],
+  "Hamstrings": [
+    { "exercise": "Deadlift", "sets": 2, "reps": 10, "weight": 40 },
+    { "exercise": "Romanian Deadlift", "sets": 2, "reps": 12, "weight": 40 },
+    { "exercise": "Landmine Romanian Deadlift", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Landmine Single-Leg Deadlift", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Glute Ham Raise", "sets": 2, "reps": 12, "weight": 0 },
+    { "exercise": "Leg Curl", "sets": 2, "reps": 12, "weight": 20 }
+  ],
+  "Glutes": [
+    { "exercise": "Glute Bridge", "sets": 2, "reps": 15, "weight": 10 },
+    { "exercise": "Lunges", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Bulgarian Split Squats", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Step-ups", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Single-leg Deadlifts", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Hip Thrust", "sets": 2, "reps": 15, "weight": 10 }
+  ],
+
+  "Calves": [
+    { "exercise": "Standing Calf Raise", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Seated Calf Raise", "sets": 2, "reps": 1, "weight": 0 },
+    { "exercise": "Leg Press Calf Raise", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Donkey Calf Raise", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Smith Machine Calf Raise", "sets": 2, "reps": 20, "weight": 0 }
+  ],
+
+  "Abs": [
+    { "exercise": "Crunch", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Plank", "sets": 2, "reps": 1, "weight": 0 },
+    { "exercise": "Russian Twist", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Leg Raise", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Mountain Climber", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Bicycle Crunch", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Plank with Leg Lift", "sets": 2, "reps": 1, "weight": 0 },
+    { "exercise": "Side Plank", "sets": 2, "reps": 1, "weight": 0 },
+    { "exercise": "V-up", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Hollow Body Hold", "sets": 2, "reps": 1, "weight": 0 },
+    { "exercise": "Flutter Kick", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Scissor Kick", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Reverse Crunch", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Sit-up", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Windshield Wiper", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Leg Pull-in", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Landmine Twists", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Landmine Rainbow", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Landmine Anti-Rotation", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Landmine Windmill", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Landmine Half-Kneeling Press", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Cable Crunches", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Hanging Leg Raises", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Woodchoppers", "sets": 2, "reps": 20, "weight": 0 },
+    { "exercise": "Pallof Press", "sets": 2, "reps": 20, "weight": 0 }
+  ]
+}

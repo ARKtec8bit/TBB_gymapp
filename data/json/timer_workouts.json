@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Morning Workout",
+    "exercises": [
+      {
+        "exercise": "Jump Rope",
+        "round_time": 180,
+        "rest_time": 60
+      },
+      {
+        "exercise": "Shadow Boxing",
+        "round_time": 180,
+        "rest_time": 60
+      },
+      {
+        "exercise": "Heavy Bag",
+        "round_time": 180,
+        "rest_time": 60
+      }
+    ]
+  },
+  {
+    "name": "Cardio Burn",
+    "exercises": [
+      {
+        "exercise": "Burpees",
+        "round_time": 120,
+        "rest_time": 30
+      },
+      {
+        "exercise": "High Knees",
+        "round_time": 120,
+        "rest_time": 30
+      },
+      {
+        "exercise": "Jumping Jacks",
+        "round_time": 120,
+        "rest_time": 30
+      }
+    ]
+  },
+  {
+    "name": "Strength Training",
+    "exercises": [
+      {
+        "exercise": "Push Ups",
+        "round_time": 150,
+        "rest_time": 45
+      },
+      {
+        "exercise": "Squats",
+        "round_time": 150,
+        "rest_time": 45
+      },
+      {
+        "exercise": "Plank",
+        "round_time": 150,
+        "rest_time": 45
+      }
+    ]
+  },
+  {
+    "name": "Kickboxing Combinations for Fitness",
+    "exercises": [
+      {
+        "exercise": "READY",
+        "round_time": 10,
+        "rest_time": 30
+      },
+      {
+        "exercise": "Jab, Jab, Straight",
+        "round_time": 60,
+        "rest_time": 30
+      },
+      {
+        "exercise": "Jab, Straight, Lead Hook",
+        "round_time": 60,
+        "rest_time": 30
+      },
+      {
+        "exercise": "Jab, Lead hook, Straight.",
+        "round_time": 60,
+        "rest_time": 30
+      },
+      {
+        "exercise": "Straight, Lead Hook, Straight.",
+        "round_time": 60,
+        "rest_time": 30
+      },
+      {
+        "exercise": "Jab, Straight, lead Uppercut",
+        "round_time": 60,
+        "rest_time": 30
+      },
+      {
+        "exercise": "Straight, Lead Uppercut, Straight.",
+        "round_time": 60,
+        "rest_time": 30
+      },
+      {
+        "exercise": "Jab, Jab, Straight to body",
+        "round_time": 60,
+        "rest_time": 30
+      },
+      {
+        "exercise": "Jab, jab, Straight, Rear Leg Kick to body",
+        "round_time": 60,
+        "rest_time": 30
+      },
+      {
+        "exercise": "Lead Kick, jab, Straight, Rear leg Kick",
+        "round_time": 60,
+        "rest_time": 30
+      },
+      {
+        "exercise": "Lead Leg Kick, Switch, Jab, Jab, rear leg kick to body",
+        "round_time": 60,
+        "rest_time": 30
+      },
+      {
+        "exercise": "Jab, Straight, Lead hook to body",
+        "round_time": 60,
+        "rest_time": 30
+      },
+      {
+        "exercise": "Jab, Straight, Lead Hook, Spin to left, rear heal to leg.",
+        "round_time": 60,
+        "rest_time": 30
+      }
+    ]
+  }
+]
