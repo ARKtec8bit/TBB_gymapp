@@ -70,6 +70,9 @@ QComboBox {
     border: 1px solid #586e75;
     color: #839496;
 }
+QComboBox#workout_selector{
+    font-size: 12px;
+}
 
 QComboBox QAbstractItemView {
     background-color: #002b36;

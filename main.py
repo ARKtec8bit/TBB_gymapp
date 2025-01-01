@@ -11,6 +11,7 @@ from src.tabs.data_visualization_tab import DataVisualizationTab
 from src.tabs.database_view_tab import DatabaseViewTab
 from src.tabs.random_workout_tab import RandomWorkoutTab
 from src.tabs.timer_tab import BoxingTimer
+from src.tabs.karate_class_tab import KarateClassDocument
 from src.tabs.splash_screen_tab import SplashScreenTab
 
 class WorkoutApp(QMainWindow):
@@ -21,7 +22,7 @@ class WorkoutApp(QMainWindow):
         self.setWindowIcon(QIcon("data/lbb.png"))
         self.central_widget = QWidget()
         self.main_layout = QVBoxLayout()  # Use vertical layout
-
+        # self.showFullScreen()
         # Initialize database handler and create tables
         self.db_handler = DBHandler("data/workout_db.sqlite")
         self.db_handler.create_tables()
@@ -33,6 +34,7 @@ class WorkoutApp(QMainWindow):
         self.tabs.addTab(RandomWorkoutTab(self.db_handler), "Random Workout")
         self.tabs.addTab(CustomWorkoutTab(self.db_handler), "Custom Workout")
         self.tabs.addTab(BoxingTimer(), "Boxing Timer")
+        self.tabs.addTab(KarateClassDocument(), "Karate Class")
         self.tabs.addTab(BiometricTab(self.db_handler), "Biometric Data")
         self.tabs.addTab(DataVisualizationTab(self.db_handler, self), "Data Visualization")
         self.tabs.addTab(DatabaseViewTab(self.db_handler), "Data Tables")
@@ -61,12 +63,6 @@ class WorkoutApp(QMainWindow):
                     stylesheet = f.read()
             case _:
                 pass
-        # if theme_name == "dark":
-        #     with open("data/dark_solarized.qss", "r") as f:
-        #         stylesheet = f.read()
-        # else:
-        #     with open("data/light_solarized.qss", "r") as f:
-        #         stylesheet = f.read()
         self.setStyleSheet(stylesheet)
 
 

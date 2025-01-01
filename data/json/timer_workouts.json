@@ -1,65 +1,5 @@
 [
   {
-    "name": "Morning Workout",
-    "exercises": [
-      {
-        "exercise": "Jump Rope",
-        "round_time": 180,
-        "rest_time": 60
-      },
-      {
-        "exercise": "Shadow Boxing",
-        "round_time": 180,
-        "rest_time": 60
-      },
-      {
-        "exercise": "Heavy Bag",
-        "round_time": 180,
-        "rest_time": 60
-      }
-    ]
-  },
-  {
-    "name": "Cardio Burn",
-    "exercises": [
-      {
-        "exercise": "Burpees",
-        "round_time": 120,
-        "rest_time": 30
-      },
-      {
-        "exercise": "High Knees",
-        "round_time": 120,
-        "rest_time": 30
-      },
-      {
-        "exercise": "Jumping Jacks",
-        "round_time": 120,
-        "rest_time": 30
-      }
-    ]
-  },
-  {
-    "name": "Strength Training",
-    "exercises": [
-      {
-        "exercise": "Push Ups",
-        "round_time": 150,
-        "rest_time": 45
-      },
-      {
-        "exercise": "Squats",
-        "round_time": 150,
-        "rest_time": 45
-      },
-      {
-        "exercise": "Plank",
-        "round_time": 150,
-        "rest_time": 45
-      }
-    ]
-  },
-  {
     "name": "Kickboxing Combinations for Fitness",
     "exercises": [
       {
@@ -128,5 +68,835 @@
         "rest_time": 30
       }
     ]
-  }
+  },
+  {
+  "name": "Power Punches and Kicks",
+  "exercises": [
+    {
+      "exercise": "READY",
+      "round_time": 10,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Jab, Cross, Rear Leg Round Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Lead Hook, Rear Uppercut, Lead Leg Front Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Rear Hook, Lead Uppercut, Rear Leg Side Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Cross, Lead Hook, Rear Leg Round Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Jab, Cross, Lead Hook, Rear Leg Knee",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Double Jab, Cross",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Lead Uppercut, Rear Hook, Lead Hook",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Jab, Cross, Lead Leg Round Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Lead Hook, Cross, Lead Hook",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Rear Uppercut, Cross, Lead Leg Front Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Jab, Cross, Rear Leg Round Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Lead Hook, Rear Uppercut, Lead Leg Side Kick",
+      "round_time": 60,
+      "rest_time": 30
+    }
+  ]
+},
+{
+  "name": "Speed and Agility",
+  "exercises": [
+    {
+      "exercise": "READY",
+      "round_time": 10,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Jab, Jab, Cross, Switch Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Cross, Hook, Cross, Lead Leg Front Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Jab, Cross, Lead Hook, Rear Leg Side Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Lead Uppercut, Rear Hook, Lead Leg Round Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Rear Uppercut, Lead Hook, Cross, Lead Leg Knee",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Double Jab, Cross",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Lead Hook, Cross, Rear Leg Round Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Jab, Cross, Lead Hook, Rear Leg Knee",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Lead Uppercut, Rear Hook, Lead Hook",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Cross, Lead Hook, Rear Leg Side Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Jab, Jab, Cross, Switch Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Rear Uppercut, Cross, Lead Leg Front Kick",
+      "round_time": 60,
+      "rest_time": 30
+    }
+  ]
+},
+{
+  "name": "Endurance and Precision",
+  "exercises": [
+    {
+      "exercise": "READY",
+      "round_time": 10,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Jab, Cross, Lead Hook, Rear Leg Front Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Lead Hook, Cross, Rear Uppercut, Lead Leg Side Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Cross, Lead Hook, Rear Leg Round Kick, Switch Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Jab, Cross, Lead Uppercut, Rear Leg Knee",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Jab, Rear Uppercut, Cross, Lead Leg Round Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Double Jab, Cross",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Lead Hook, Cross, Lead Hook",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Rear Hook, Lead Uppercut, Cross",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Jab, Cross, Lead Leg Front Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Lead Uppercut, Cross, Rear Leg Round Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Rear Uppercut, Cross, Lead Leg Side Kick",
+      "round_time": 60,
+      "rest_time": 30
+    },
+    {
+      "exercise": "Jab, Cross, Lead Uppercut, Rear Leg Knee",
+      "round_time": 60,
+      "rest_time": 30
+    }
+  ]
+},
+{
+  "name": "Basic Combos",
+  "exercises": [
+    {
+      "exercise": "READY",
+      "round_time": 180,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Jab, Jab, Straight",
+      "round_time": 180,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Jab, Straight, Lead Hook",
+      "round_time": 180,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Straight, Lead Hook, Straight",
+      "round_time": 180,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Jab, Lead Uppercut, Straight",
+      "round_time": 180,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Jab, Jab, Straight to body",
+      "round_time": 180,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Jab, Lead Hook, Straight to body",
+      "round_time": 180,
+      "rest_time": 60
+    }
+  ]
+},
+{
+  "name": "Advanced Combos",
+  "exercises": [
+    {
+      "exercise": "READY",
+      "round_time": 180,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Jab, Cross, Lead Hook",
+      "round_time": 180,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Jab, Lead Hook, Rear Uppercut",
+      "round_time": 180,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Rear Hook, Lead Uppercut, Cross",
+      "round_time": 180,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Double Jab, Cross, Lead Hook",
+      "round_time": 180,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Jab, Cross, Lead Hook, Rear Uppercut",
+      "round_time": 180,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Jab, Cross, Rear Leg Kick",
+      "round_time": 180,
+      "rest_time": 60
+    }
+  ]
+},
+{
+  "name": "Heavy Bag Kickboxing and Bodyweight Session",
+  "exercises": [
+    {
+      "exercise": "Warm-Up: Jumping Jacks",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: High Knees",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: Arm Circles",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: Leg Swings",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: Shadow Boxing",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Round 1: Jab, Cross, Lead Hook on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Pushups",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 2: Jab, Cross, Rear Leg Kick on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Squats",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 3: Lead Hook, Cross, Rear Uppercut on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Sit-ups",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 4: Jab, Cross, Lead Uppercut on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Lunges",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 5: Cross, Lead Hook, Rear Leg Kick on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Planks",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 6: Jab, Cross, Lead Hook, Rear Knee on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Burpees",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 7: Jab, Rear Uppercut, Cross, Lead Hook on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Mountain Climbers",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 8: Jab, Cross, Lead Hook, Rear Leg Round Kick on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Bicycle Crunches",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Cool Down: Hamstring Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Quad Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Shoulder Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Tricep Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Hip Flexor Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    }
+  ]
+},
+{
+  "name": "Combos and Core Strength",
+  "exercises": [
+    {
+      "exercise": "Warm-Up: Jumping Jacks",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: High Knees",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: Arm Circles",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: Leg Swings",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: Shadow Boxing",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Round 1: Jab, Cross, Lead Uppercut on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Sit-ups",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 2: Cross, Lead Hook, Rear Leg Kick on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Planks",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 3: Jab, Cross, Lead Hook on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Russian Twists",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 4: Lead Hook, Cross, Rear Uppercut on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Leg Raises",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 5: Jab, Cross, Rear Knee on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Bicycle Crunches",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 6: Cross, Lead Hook, Rear Leg Kick on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Flutter Kicks",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 7: Jab, Lead Uppercut, Cross on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Plank with Shoulder Taps",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 8: Jab, Cross, Lead Hook on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Mountain Climbers",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Cool Down: Hamstring Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Quad Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Shoulder Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Tricep Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Hip Flexor Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    }
+  ]
+},{
+  "name": "Power Strikes and Lower Body",
+  "exercises": [
+    {
+      "exercise": "Warm-Up: Jumping Jacks",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: High Knees",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: Arm Circles",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: Leg Swings",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: Shadow Boxing",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Round 1: Jab, Cross, Lead Hook on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Lunges",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 2: Lead Hook, Cross, Rear Uppercut on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Squats",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 3: Cross, Lead Hook, Rear Leg Kick on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Calf Raises",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 4: Jab, Cross, Rear Knee on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Jump Squats",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 5: Jab, Cross, Lead Uppercut on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Side Lunges",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 6: Lead Hook, Cross, Rear Leg Kick on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Wall Sit",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 7: Cross, Lead Hook, Rear Leg Kick on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Glute Bridges",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 8: Jab, Cross, Lead Hook on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Forward Lunges",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Cool Down: Hamstring Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Quad Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Shoulder Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Tricep Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Hip Flexor Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    }
+  ]
+},
+{
+  "name": "Speed and Agility",
+  "exercises": [
+    {
+      "exercise": "Warm-Up: Jumping Jacks",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: High Knees",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: Arm Circles",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: Leg Swings",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Warm-Up: Shadow Boxing",
+      "round_time": 60,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Round 1: Jab, Jab, Cross on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Burpees",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 2: Cross, Lead Hook, Rear Uppercut on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Mountain Climbers",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 3: Jab, Cross, Lead Hook on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Jumping Jacks",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 4: Lead Hook, Cross, Rear Leg Kick on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "High Knees",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 5: Jab, Cross, Rear Knee on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Skaters",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 6: Cross, Lead Hook, Rear Leg Kick on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Butt Kicks",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 7: Jab, Lead Uppercut, Cross on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Fast Feet",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Round 8: Jab, Cross, Lead Hook on Heavy Bag",
+      "round_time": 120,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Jump Rope (imaginary)",
+      "round_time": 60,
+      "rest_time": 60
+    },
+    {
+      "exercise": "Cool Down: Hamstring Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Quad Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Shoulder Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Tricep Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    },
+    {
+      "exercise": "Cool Down: Hip Flexor Stretch",
+      "round_time": 30,
+      "rest_time": 5
+    }
+  ]
+}
+
 ]

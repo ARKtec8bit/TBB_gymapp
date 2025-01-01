@@ -1,5 +1,5 @@
 import json
-
+from PySide6.QtGui import QFont
 from PySide6.QtCore import Qt, QTimer
 from PySide6.QtWidgets import QWidget, QVBoxLayout, QHBoxLayout, QLabel, QPushButton, QLineEdit, QComboBox
 from pygame import mixer
@@ -13,7 +13,8 @@ class BoxingTimer(QWidget):
 
         main_layout = QHBoxLayout()
         self.setLayout(main_layout)
-
+        font = QFont()
+        font.setPointSize(8)
         # Left layout for controls
         self.controls_layout = QVBoxLayout()
         self.controls_layout.setContentsMargins(0, 0, 0, 0)
@@ -22,7 +23,9 @@ class BoxingTimer(QWidget):
         self.workout_label.setAlignment(Qt.AlignCenter)
         self.workout_label.setMaximumWidth(150)
         self.workout_selector = QComboBox()
+        self.workout_selector.setObjectName("workout_selector")
         self.workout_selector.setMaximumWidth(150)
+        self.workout_selector.setFont(font)
 
         self.controls_layout.addWidget(self.workout_label)
         self.controls_layout.addWidget(self.workout_selector)
