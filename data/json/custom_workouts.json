@@ -1,44 +1,955 @@
 {
-  "Reeves Full Body": {
-    "Week 1": {
-      "Wednesday": {
-        "Weights": [
-          {"exercise": "Military Press", "sets": 3, "reps": 12, "weight": 80},
-          {"exercise": "Bench Press", "sets": 3, "reps": 12, "weight": 60},
-          {"exercise": "Bent over row", "sets": 3, "reps": 12, "weight": 100},
-          {"exercise": "Barbell Curl", "sets": 3, "reps": 12, "weight": 40},
-          {"exercise": "Tricep Extension", "sets": 3, "reps": 12, "weight": 40},
-          {"exercise": "Squat", "sets": 3, "reps": 12, "weight": 80},
-          {"exercise": "Standing Calf Raise", "sets": 3, "reps": 12, "weight": 100},
-          {"exercise": "Deadlift", "sets": 3, "reps": 12, "weight": 100},
-          {"exercise": "Crunch", "sets": 3, "reps": 12, "weight": 60}
-        ]
-      },
-      "Friday": {
-        "Weights": [
-          {"exercise": "Alternating Military Press", "sets": 3, "reps": 12, "weight": 80},
-          {"exercise": "Dips", "sets": 3, "reps": 12, "weight": 60},
-          {"exercise": "Pull up", "sets": 3, "reps": 12, "weight": 100},
-          {"exercise": "Alternating Curl", "sets": 3, "reps": 12, "weight": 40},
-          {"exercise": "Skull Crusher", "sets": 3, "reps": 12, "weight": 40},
-          {"exercise": "Front Squat", "sets": 3, "reps": 12, "weight": 80},
-          {"exercise": "Seated Calf Raise", "sets": 3, "reps": 12, "weight": 100},
-          {"exercise": "Goodmorning", "sets": 3, "reps": 12, "weight": 100},
-          {"exercise": "Leg Raise", "sets": 3, "reps": 12, "weight": 60}
-        ]
-      },
-      "Sunday": {
-        "Weights": [
-          {"exercise": "Upright Row", "sets": 3, "reps": 12, "weight": 80},
-          {"exercise": "Incline Press", "sets": 3, "reps": 12, "weight": 60},
-          {"exercise": "One-arm Dumbbell Row", "sets": 3, "reps": 12, "weight": 100},
-          {"exercise": "Concentration Curl", "sets": 3, "reps": 12, "weight": 40},
-          {"exercise": "Lying Triceps Extension", "sets": 3, "reps": 12, "weight": 40},
-          {"exercise": "Dumbbell Lunge", "sets": 3, "reps": 12, "weight": 80},
-          {"exercise": "Standing Calf Raise", "sets": 3, "reps": 12, "weight": 100},
-          {"exercise": "RDL", "sets": 3, "reps": 12, "weight": 100},
-          {"exercise": "Sit-up", "sets": 3, "reps": 12, "weight": 60}
-        ]
+  "Workouts": {
+    "Lee Full Body": {
+      "Week 1": {
+        "Tuesday": {
+          "Weights": [
+            {
+              "exercise": "Sit-up",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Side Bend",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Leg Raise",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Twists",
+              "sets": 4,
+              "reps": 50,
+              "weight": 60
+            },
+            {
+              "exercise": "Frog Kick",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Seated Leg stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Standing Leg stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Seated Toe Touch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Side Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Hurdler Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Butterfly Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "thigh Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            }
+          ]
+        },
+        "Wednesday": {
+          "Weights": [
+            {
+              "exercise": "Clean and Press",
+              "sets": 2,
+              "reps": 8,
+              "weight": 60
+            },
+            { "exercise": "Squat", "sets": 2, "reps": 12, "weight": 60 },
+            {
+              "exercise": "Pull Over",
+              "sets": 2,
+              "reps": 12,
+              "weight": 60
+            },
+            {
+              "exercise": "Bench Press",
+              "sets": 2,
+              "reps": 6,
+              "weight": 60
+            },
+            {
+              "exercise": "Goodmorning",
+              "sets": 2,
+              "reps": 8,
+              "weight": 60
+            },
+            { "exercise": "Curl", "sets": 2, "reps": 12, "weight": 60 },
+            {
+              "exercise": "Sit-up",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Side Bend",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Leg Raise",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Twists",
+              "sets": 4,
+              "reps": 50,
+              "weight": 60
+            },
+            {
+              "exercise": "Frog Kick",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Seated Leg stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Standing Leg stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Seated Toe Touch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Side Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Hurdler Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Butterfly Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "thigh Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            }
+          ]
+        },
+        "Thursday": {
+          "Weights": [
+            {
+              "exercise": "Sit-up",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Side Bend",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Leg Raise",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Twists",
+              "sets": 4,
+              "reps": 50,
+              "weight": 60
+            },
+            {
+              "exercise": "Frog Kick",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Seated Leg stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Standing Leg stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Seated Toe Touch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Side Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Hurdler Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Butterfly Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "thigh Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            }
+          ]
+        },
+        "Friday": {
+          "Weights": [
+            {
+              "exercise": "Clean and Press",
+              "sets": 2,
+              "reps": 8,
+              "weight": 60
+            },
+            { "exercise": "Squat", "sets": 2, "reps": 12, "weight": 60 },
+            {
+              "exercise": "Pull Over",
+              "sets": 2,
+              "reps": 12,
+              "weight": 60
+            },
+            {
+              "exercise": "Bench Press",
+              "sets": 2,
+              "reps": 6,
+              "weight": 60
+            },
+            {
+              "exercise": "Goodmorning",
+              "sets": 2,
+              "reps": 8,
+              "weight": 60
+            },
+            { "exercise": "Curl", "sets": 2, "reps": 12, "weight": 60 },
+
+            {
+              "exercise": "Sit-up",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Side Bend",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Leg Raise",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Twists",
+              "sets": 4,
+              "reps": 50,
+              "weight": 60
+            },
+            {
+              "exercise": "Frog Kick",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Seated Leg stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Standing Leg stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Seated Toe Touch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Side Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Hurdler Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Butterfly Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "thigh Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            }
+          ]
+        },
+        "Saturday": {
+          "Weights": [
+            {
+              "exercise": "Sit-up",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Side Bend",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Leg Raise",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Twists",
+              "sets": 4,
+              "reps": 50,
+              "weight": 60
+            },
+            {
+              "exercise": "Frog Kick",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Seated Leg stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Standing Leg stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Seated Toe Touch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Side Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Hurdler Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Butterfly Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "thigh Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            }
+          ]
+        },
+        "Sunday": {
+          "Weights": [
+            {
+              "exercise": "Clean and Press",
+              "sets": 2,
+              "reps": 8,
+              "weight": 60
+            },
+            { "exercise": "Squat", "sets": 2, "reps": 12, "weight": 60 },
+            {
+              "exercise": "Pull Over",
+              "sets": 2,
+              "reps": 12,
+              "weight": 60
+            },
+            {
+              "exercise": "Bench Press",
+              "sets": 2,
+              "reps": 6,
+              "weight": 60
+            },
+            {
+              "exercise": "Goodmorning",
+              "sets": 2,
+              "reps": 8,
+              "weight": 60
+            },
+            { "exercise": "Curl", "sets": 2, "reps": 12, "weight": 60 },
+
+            {
+              "exercise": "Sit-up",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Side Bend",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Leg Raise",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Twists",
+              "sets": 4,
+              "reps": 50,
+              "weight": 60
+            },
+            {
+              "exercise": "Frog Kick",
+              "sets": 4,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Seated Leg stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Standing Leg stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Seated Toe Touch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Side Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Hurdler Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Butterfly Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "thigh Stretch",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            }
+          ]
+        }
+      }
+    },
+    "Reeves Full Body": {
+      "Week 1": {
+        "Wednesday": {
+          "Weights": [
+            {
+              "exercise": "Military Press",
+              "sets": 3,
+              "reps": 12,
+              "weight": 80
+            },
+            { "exercise": "Bench Press", "sets": 3, "reps": 12, "weight": 60 },
+            {
+              "exercise": "Bent over row",
+              "sets": 3,
+              "reps": 12,
+              "weight": 100
+            },
+            { "exercise": "Barbell Curl", "sets": 3, "reps": 12, "weight": 40 },
+            {
+              "exercise": "Tricep Extension",
+              "sets": 3,
+              "reps": 12,
+              "weight": 40
+            },
+            { "exercise": "Squat", "sets": 3, "reps": 12, "weight": 80 },
+            {
+              "exercise": "Standing Calf Raise",
+              "sets": 3,
+              "reps": 12,
+              "weight": 100
+            },
+            { "exercise": "Deadlift", "sets": 3, "reps": 12, "weight": 100 },
+            { "exercise": "Crunch", "sets": 3, "reps": 12, "weight": 60 }
+          ]
+        },
+        "Friday": {
+          "Weights": [
+            {
+              "exercise": "Alternating Military Press",
+              "sets": 3,
+              "reps": 12,
+              "weight": 80
+            },
+            { "exercise": "Dips", "sets": 3, "reps": 12, "weight": 60 },
+            { "exercise": "Pull up", "sets": 3, "reps": 12, "weight": 100 },
+            {
+              "exercise": "Alternating Curl",
+              "sets": 3,
+              "reps": 12,
+              "weight": 40
+            },
+            {
+              "exercise": "Skull Crusher",
+              "sets": 3,
+              "reps": 12,
+              "weight": 40
+            },
+            { "exercise": "Front Squat", "sets": 3, "reps": 12, "weight": 80 },
+            {
+              "exercise": "Seated Calf Raise",
+              "sets": 3,
+              "reps": 12,
+              "weight": 100
+            },
+            { "exercise": "Goodmorning", "sets": 3, "reps": 12, "weight": 100 },
+            { "exercise": "Leg Raise", "sets": 3, "reps": 12, "weight": 60 }
+          ]
+        },
+        "Sunday": {
+          "Weights": [
+            { "exercise": "Upright Row", "sets": 3, "reps": 12, "weight": 80 },
+            {
+              "exercise": "Incline Press",
+              "sets": 3,
+              "reps": 12,
+              "weight": 60
+            },
+            {
+              "exercise": "One-arm Dumbbell Row",
+              "sets": 3,
+              "reps": 12,
+              "weight": 100
+            },
+            {
+              "exercise": "Concentration Curl",
+              "sets": 3,
+              "reps": 12,
+              "weight": 40
+            },
+            {
+              "exercise": "Lying Triceps Extension",
+              "sets": 3,
+              "reps": 12,
+              "weight": 40
+            },
+            {
+              "exercise": "Dumbbell Lunge",
+              "sets": 3,
+              "reps": 12,
+              "weight": 80
+            },
+            {
+              "exercise": "Standing Calf Raise",
+              "sets": 3,
+              "reps": 12,
+              "weight": 100
+            },
+            { "exercise": "RDL", "sets": 3, "reps": 12, "weight": 100 },
+            { "exercise": "Sit-up", "sets": 3, "reps": 12, "weight": 60 }
+          ]
+        }
+      }
+    },
+
+    "Kicking and striking conditioning": {
+      "Week 1": {
+        "Monday": {
+          "Weights": [
+            {
+              "exercise": "Quadruped series",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Straight-leg series",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Dynamic flexibility",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            { "exercise": "Linear skip", "sets": 1, "reps": 1, "weight": 60 },
+            {
+              "exercise": "Wall drill one-count",
+              "sets": 1,
+              "reps": 5,
+              "weight": 60
+            },
+            {
+              "exercise": "Wall drill two-count",
+              "sets": 2,
+              "reps": 5,
+              "weight": 60
+            },
+            {
+              "exercise": "Wall drill three-count",
+              "sets": 1,
+              "reps": 5,
+              "weight": 60
+            },
+            {
+              "exercise": "Sprints, short acceleration",
+              "sets": 2,
+              "reps": 3,
+              "weight": 60
+            },
+            { "exercise": "Squat", "sets": 3, "reps": 5, "weight": 60 },
+            { "exercise": "Plank", "sets": 3, "reps": 30, "weight": 60 },
+            { "exercise": "Bent-over T", "sets": 3, "reps": 12, "weight": 60 },
+            { "exercise": "Pull-up", "sets": 3, "reps": 5, "weight": 60 },
+            { "exercise": "Elbow tap", "sets": 3, "reps": 6, "weight": 60 },
+            { "exercise": "Cat/cow", "sets": 3, "reps": 8, "weight": 60 },
+            {
+              "exercise": "Flat bench press",
+              "sets": 3,
+              "reps": 5,
+              "weight": 60
+            },
+            {
+              "exercise": "Tall monster walk",
+              "sets": 3,
+              "reps": 10,
+              "weight": 60
+            },
+            {
+              "exercise": "Single-leg hip thrust (variation)",
+              "sets": 3,
+              "reps": 6,
+              "weight": 60
+            },
+            { "exercise": "Bent-over row", "sets": 3, "reps": 5, "weight": 60 },
+            {
+              "exercise": "Plyometric push-up",
+              "sets": 3,
+              "reps": 6,
+              "weight": 60
+            },
+            { "exercise": "Elbow tap", "sets": 3, "reps": 6, "weight": 60 },
+            { "exercise": "Foam roll", "sets": 1, "reps": 1, "weight": 60 },
+            {
+              "exercise": "Active isolated stretching (AIS)",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            { "exercise": "Contrast bath", "sets": 1, "reps": 1, "weight": 60 }
+          ]
+        },
+        "Wednesday": {
+          "Weights": [
+            {
+              "exercise": "Quadruped series",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Straight-leg series",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            { "exercise": "Squat series", "sets": 1, "reps": 1, "weight": 60 },
+            {
+              "exercise": "Dynamic flexibility",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            { "exercise": "Carioca", "sets": 1, "reps": 1, "weight": 60 },
+            { "exercise": "Line hop", "sets": 3, "reps": 6, "weight": 60 },
+            { "exercise": "In and out", "sets": 3, "reps": 6, "weight": 60 },
+            { "exercise": "Hip rotation", "sets": 3, "reps": 6, "weight": 60 },
+            { "exercise": "Box drill", "sets": 4, "reps": 1, "weight": 60 },
+            { "exercise": "Pro shuttle", "sets": 4, "reps": 1, "weight": 60 },
+            {
+              "exercise": "Vertical jump without countermovement",
+              "sets": 3,
+              "reps": 5,
+              "weight": 60
+            },
+            {
+              "exercise": "Three plank positions (side)",
+              "sets": 3,
+              "reps": 20,
+              "weight": 60
+            },
+            { "exercise": "Toe tap", "sets": 3, "reps": 5, "weight": 60 },
+            {
+              "exercise": "Broad jump with countermovement",
+              "sets": 3,
+              "reps": 5,
+              "weight": 60
+            },
+            {
+              "exercise": "Medicine-ball rotational throw",
+              "sets": 3,
+              "reps": 5,
+              "weight": 60
+            },
+            {
+              "exercise": "Plyometric push-up hold",
+              "sets": 3,
+              "reps": 30,
+              "weight": 60
+            },
+            {
+              "exercise": "Clean and jerk",
+              "sets": 3,
+              "reps": 5,
+              "weight": 60
+            },
+            {
+              "exercise": "Side-lying abduction",
+              "sets": 3,
+              "reps": 5,
+              "weight": 60
+            },
+            { "exercise": "Push-up plus", "sets": 3, "reps": 5, "weight": 60 },
+            {
+              "exercise": "Single-leg hip thrust (variation)",
+              "sets": 3,
+              "reps": 10,
+              "weight": 60
+            },
+            {
+              "exercise": "Single-arm dumbbell row",
+              "sets": 3,
+              "reps": 5,
+              "weight": 60
+            },
+            {
+              "exercise": "Barefoot cool-down",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            },
+            {
+              "exercise": "Contrast bath (hot and cold)",
+              "sets": 1,
+              "reps": 1,
+              "weight": 60
+            }
+          ]
+        },
+        "Friday": {
+          "Weights": [
+            {
+              "exercise": "Dynamic flexibility",
+              "sets": 3,
+              "reps": 5,
+              "weight": 60
+            },
+            {
+              "exercise": "Quadruped series",
+              "sets": 3,
+              "reps": 5,
+              "weight": 60
+            },
+            {
+              "exercise": "Straight-leg series",
+              "sets": 3,
+              "reps": 5,
+              "weight": 60
+            },
+            {
+              "exercise": "Shoulder series",
+              "sets": 3,
+              "reps": 5,
+              "weight": 60
+            },
+            { "exercise": "Squat series", "sets": 3, "reps": 5, "weight": 60 },
+            {
+              "exercise": "Bullet-belt partner march",
+              "sets": 3,
+              "reps": 10,
+              "weight": 60
+            },
+            {
+              "exercise": "Bullet-belt partner-resisted run",
+              "sets": 3,
+              "reps": 5,
+              "weight": 60
+            },
+            {
+              "exercise": "Box drill",
+              "sets": 1,
+              "reps": 4,
+              "weight": 60
+            },
+            {
+              "exercise": "Carioca",
+              "sets": 2,
+              "reps": 25,
+              "weight": 60
+            },
+            { "exercise": "Deadlift", "sets": 3, "reps": 5, "weight": 60 },
+            {
+              "exercise": "Kneeling ISO hold",
+              "sets": 3,
+              "reps": 20,
+              "weight": 60
+            },
+            {
+              "exercise": "Elbow tap",
+              "sets": 3,
+              "reps": 5,
+              "weight": 60
+            },
+            { "exercise": "Pull-up", "sets": 3, "reps": 5, "weight": 60 },
+            {
+              "exercise": "Rear-foot elevated split squat",
+              "sets": 3,
+              "reps": 6,
+              "weight": 60
+            },
+            { "exercise": "Plank", "sets": 3, "reps": 8, "weight": 60 },
+            {
+              "exercise": "Landmine row to punch",
+              "sets": 3,
+              "reps": 6,
+              "weight": 60
+            },
+            {
+              "exercise": "Open-stance medicine-ball throw",
+              "sets": 3,
+              "reps": 6,
+              "weight": 60
+            },
+            {
+              "exercise": "Toe tap",
+              "sets": 3,
+              "reps": 6,
+              "weight": 60
+            },
+            {
+              "exercise": "Flat bench press",
+              "sets": 3,
+              "reps": 6,
+              "weight": 60
+            },
+            {
+              "exercise": "Landmine row",
+              "sets": 3,
+              "reps": 6,
+              "weight": 60
+            },
+            {
+              "exercise": "Physioball push-up hold",
+              "sets": 3,
+              "reps": 30,
+              "weight": 60
+            }
+          ]
+        }
       }
     }
   }

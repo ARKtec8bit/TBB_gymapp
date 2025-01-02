@@ -75,7 +75,7 @@ class DashboardTab(QWidget):
 
     def toggle_fullscreen(self):
         if self.fullscreen:
-            self.showNormal()
+            self.main_window.showNormal()
         else:
-            self.showFullScreen()
+            self.main_window.showFullScreen()
         self.fullscreen = not self.fullscreen

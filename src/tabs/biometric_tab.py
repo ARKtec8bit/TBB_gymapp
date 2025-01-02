@@ -1,5 +1,5 @@
 from PySide6.QtCore import QDate
-from PySide6.QtWidgets import QWidget, QVBoxLayout, QFormLayout, QDoubleSpinBox, QComboBox, QDateEdit, QPushButton, \
+from PySide6.QtWidgets import QWidget,QLabel, QVBoxLayout, QFormLayout, QDoubleSpinBox, QComboBox, QDateEdit, QPushButton, \
     QMessageBox
 
 from src.modules.engine import Engine
@@ -124,22 +124,71 @@ class BiometricTab(QWidget):
         self.save_btn.clicked.connect(self.save_biometric_data)
 
         form_layout = QFormLayout()
-        form_layout.addRow("User:", self.user_combo)
-        form_layout.addRow("Date:", self.date_edit)
-        form_layout.addRow("Height:", self.height_spinbox)
-        form_layout.addRow("Weight:", self.weight_spinbox)
-        form_layout.addRow("Shoulders:", self.shoulders_spinbox)
-        form_layout.addRow("Chest:", self.chest_spinbox)
-        form_layout.addRow("Left Upper Arm:", self.upper_arm_left_spinbox)
-        form_layout.addRow("Right Upper Arm:", self.upper_arm_right_spinbox)
-        form_layout.addRow("Left Forearm:", self.forearm_left_spinbox)
-        form_layout.addRow("Right Forearm:", self.forearm_right_spinbox)
-        form_layout.addRow("Waist:", self.waist_spinbox)
-        form_layout.addRow("Hips:", self.hips_spinbox)
-        form_layout.addRow("Left Upper Leg:", self.upper_leg_left_spinbox)
-        form_layout.addRow("Right Upper Leg:", self.upper_leg_right_spinbox)
-        form_layout.addRow("Left Calf:", self.calf_left_spinbox)
-        form_layout.addRow("Right Calf:", self.calf_right_spinbox)
+
+        # Adding rows with individual colors
+        user_label = QLabel("User:")
+        user_label.setStyleSheet("color: #268bd2;")
+        form_layout.addRow(user_label, self.user_combo)
+
+        date_label = QLabel("Date:")
+        date_label.setStyleSheet("color: #268bd2;")
+        form_layout.addRow(date_label, self.date_edit)
+
+        height_label = QLabel("Height:")
+        height_label.setStyleSheet("color: #cb4b16;")
+        form_layout.addRow(height_label, self.height_spinbox)
+
+        weight_label = QLabel("Weight:")
+        weight_label.setStyleSheet("color:#dc322f ;")
+        form_layout.addRow(weight_label, self.weight_spinbox)
+
+        shoulders_label = QLabel("Shoulders:")
+        shoulders_label.setStyleSheet("color: #d33682;")
+        form_layout.addRow(shoulders_label, self.shoulders_spinbox)
+
+        chest_label = QLabel("Chest:")
+        chest_label.setStyleSheet("color: #6c71c4;")
+        form_layout.addRow(chest_label, self.chest_spinbox)
+
+        upper_arm_left_label = QLabel("Left Upper Arm:")
+        upper_arm_left_label.setStyleSheet("color: #268bd2;")
+        form_layout.addRow(upper_arm_left_label, self.upper_arm_left_spinbox)
+
+        upper_arm_right_label = QLabel("Right Upper Arm:")
+        upper_arm_right_label.setStyleSheet("color: #268bd2;")
+        form_layout.addRow(upper_arm_right_label, self.upper_arm_right_spinbox)
+
+        forearm_left_label = QLabel("Left Forearm:")
+        forearm_left_label.setStyleSheet("color: #2aa198;")
+        form_layout.addRow(forearm_left_label, self.forearm_left_spinbox)
+
+        forearm_right_label = QLabel("Right Forearm:")
+        forearm_right_label.setStyleSheet("color: #2aa198;")
+        form_layout.addRow(forearm_right_label, self.forearm_right_spinbox)
+
+        waist_label = QLabel("Waist:")
+        waist_label.setStyleSheet("color: #859900;")
+        form_layout.addRow(waist_label, self.waist_spinbox)
+
+        hips_label = QLabel("Hips:")
+        hips_label.setStyleSheet("color: #b58900;")
+        form_layout.addRow(hips_label, self.hips_spinbox)
+
+        upper_leg_left_label = QLabel("Left Upper Leg:")
+        upper_leg_left_label.setStyleSheet("color: #cb4b16;")
+        form_layout.addRow(upper_leg_left_label, self.upper_leg_left_spinbox)
+
+        upper_leg_right_label = QLabel("Right Upper Leg:")
+        upper_leg_right_label.setStyleSheet("color: #cb4b16;")
+        form_layout.addRow(upper_leg_right_label, self.upper_leg_right_spinbox)
+
+        calf_left_label = QLabel("Left Calf:")
+        calf_left_label.setStyleSheet("color: #dc322f;")
+        form_layout.addRow(calf_left_label, self.calf_left_spinbox)
+
+        calf_right_label = QLabel("Right Calf:")
+        calf_right_label.setStyleSheet("color: #dc322f;")
+        form_layout.addRow(calf_right_label, self.calf_right_spinbox)
 
         main_layout.addLayout(form_layout)
         main_layout.addWidget(self.save_btn)

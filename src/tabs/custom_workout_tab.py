@@ -1,3 +1,4 @@
+
 import json
 
 from PySide6.QtCore import QDate
@@ -69,7 +70,8 @@ class CustomWorkoutTab(QWidget):
             self.custom_workout_data = json.load(file)
         # print("Loaded workout data:", self.custom_workout_data.keys())  # Debug print
 
-        self.workout_combo.addItems(self.custom_workout_data.keys())
+        workout_names = self.custom_workout_data["Workouts"].keys()
+        self.workout_combo.addItems(workout_names)
         self.load_weeks()  # Ensure weeks are loaded on initialization
 
     def load_weeks(self):
@@ -77,7 +79,8 @@ class CustomWorkoutTab(QWidget):
         selected_workout = self.workout_combo.currentText()
         # print("Selected workout:", selected_workout)  # Debug print
         if selected_workout:
-            weeks = self.custom_workout_data[selected_workout].keys()
+            weeks = self.custom_workout_data["Workouts"][selected_workout].keys(
+            )
             # print("Available weeks:", weeks)  # Debug print
             self.week_combo.addItems(weeks)
             self.load_days()  # Ensure days are loaded on week change
@@ -88,7 +91,7 @@ class CustomWorkoutTab(QWidget):
         selected_week = self.week_combo.currentText()
         # print("Selected week:", selected_week)  # Debug print
         if selected_workout and selected_week:
-            days = self.custom_workout_data[selected_workout][selected_week].keys(
+            days = self.custom_workout_data["Workouts"][selected_workout][selected_week].keys(
             )
             # print("Available days:", days)  # Debug print
             self.day_combo.addItems(days)
@@ -105,7 +108,8 @@ class CustomWorkoutTab(QWidget):
         # print("Selected day:", selected_day)  # Debug print
 
         if selected_workout and selected_week and selected_day:
-            workout_data = self.custom_workout_data[selected_workout][selected_week][selected_day]["Weights"]
+            workout_data = self.custom_workout_data["Workouts"][
+                selected_workout][selected_week][selected_day]["Weights"]
             # print("Workout data for selected day:", workout_data)  # Debug print
 
             for exercise in workout_data:
