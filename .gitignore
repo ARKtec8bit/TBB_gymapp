@@ -2,3 +2,4 @@
 **/src/tabs/__pycache__/*.pyc
 *.pyc
 *.sqlite
+data/workout_db.sqlite
