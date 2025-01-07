@@ -2,6 +2,7 @@ import json
 import random
 from PySide6.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QTextEdit, QFileDialog
 
+
 class KarateClassDocument(QWidget):
     def __init__(self):
         super().__init__()
@@ -80,28 +81,14 @@ class KarateClassDocument(QWidget):
 
         self.text_edit.setHtml(document_content)
 
-
-
-    # def generate_document(self):
-    #     data = self.read_json_data()
-    #     document_content = "<h1>Karate Class</h1>"
-
-    #     for category, items in data.items():
-    #         document_content += f"<h2>{category}</h2>"
-    #         item = random.choice(items)
-    #         document_content += f"<h3>{item['name']}</h3>"
-    #         document_content += f"<p>{item['description']}</p>"
-    #         if 'video_link' in item:
-    #             document_content += f"<a href='{item['video_link']}'>Video Link</a>"
-
-    #     self.text_edit.setHtml(document_content)
-
     def output_to_file(self):
         options = QFileDialog.Options()
-        file_name, _ = QFileDialog.getSaveFileName(self, "Save Document", "", "HTML Files (*.html);;All Files (*)", options=options)
+        file_name, _ = QFileDialog.getSaveFileName(
+            self, "Save Document", "", "HTML Files (*.html);;All Files (*)", options=options)
         if file_name:
             with open(file_name, 'w') as file:
                 file.write(self.text_edit.toHtml())
+
 
 if __name__ == '__main__':
     app = QApplication([])

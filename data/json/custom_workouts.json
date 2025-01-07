@@ -1,5 +1,163 @@
 {
   "Workouts": {
+    "Walrus": {
+      "Week 1": {
+        "Monday": {
+          "Weights": [
+            {
+              "exercise": "Weight Vest Squat",
+              "sets": 5,
+              "reps": 10,
+              "weight": 12
+            },
+            {
+              "exercise": "Weight Vest Push-up",
+              "sets": 5,
+              "reps": 10,
+              "weight": 12
+            },
+            {
+              "exercise": "Weight Vest Pull-up",
+              "sets": 5,
+              "reps": 5,
+              "weight": 12
+            }
+          ]
+        },
+        "Tuesday": {
+          "Weights": [
+            {
+              "exercise": "Weight Vest Squat",
+              "sets": 5,
+              "reps": 10,
+              "weight": 12
+            },
+            {
+              "exercise": "Weight Vest Push-up",
+              "sets": 5,
+              "reps": 10,
+              "weight": 12
+            },
+            {
+              "exercise": "Weight Vest Pull-up",
+              "sets": 5,
+              "reps": 5,
+              "weight": 12
+            }
+          ]
+        },
+        "Wednesday": {
+          "Weights": [
+            {
+              "exercise": "Weight Vest Squat",
+              "sets": 5,
+              "reps": 10,
+              "weight": 12
+            },
+            {
+              "exercise": "Weight Vest Push-up",
+              "sets": 5,
+              "reps": 10,
+              "weight": 12
+            },
+            {
+              "exercise": "Weight Vest Pull-up",
+              "sets": 5,
+              "reps": 5,
+              "weight": 12
+            }
+          ]
+        },
+        "Thursday": {
+          "Weights": [
+            {
+              "exercise": "Weight Vest Squat",
+              "sets": 5,
+              "reps": 10,
+              "weight": 12
+            },
+            {
+              "exercise": "Weight Vest Push-up",
+              "sets": 5,
+              "reps": 10,
+              "weight": 12
+            },
+            {
+              "exercise": "Weight Vest Pull-up",
+              "sets": 5,
+              "reps": 5,
+              "weight": 12
+            }
+          ]
+        },
+        "Friday": {
+          "Weights": [
+            {
+              "exercise": "Weight Vest Squat",
+              "sets": 5,
+              "reps": 10,
+              "weight": 12
+            },
+            {
+              "exercise": "Weight Vest Push-up",
+              "sets": 5,
+              "reps": 10,
+              "weight": 12
+            },
+            {
+              "exercise": "Weight Vest Pull-up",
+              "sets": 5,
+              "reps": 5,
+              "weight": 12
+            }
+          ]
+        },
+        "Saturday": {
+          "Weights": [
+            {
+              "exercise": "Weight Vest Squat",
+              "sets": 5,
+              "reps": 10,
+              "weight": 12
+            },
+            {
+              "exercise": "Weight Vest Push-up",
+              "sets": 5,
+              "reps": 10,
+              "weight": 12
+            },
+            {
+              "exercise": "Weight Vest Pull-up",
+              "sets": 5,
+              "reps": 5,
+              "weight": 12
+            }
+          ]
+        },
+        "Sunday": {
+          "Weights": [
+            {
+              "exercise": "Weight Vest Squat",
+              "sets": 5,
+              "reps": 10,
+              "weight": 12
+            },
+            {
+              "exercise": "Weight Vest Push-up",
+              "sets": 5,
+              "reps": 10,
+              "weight": 12
+            },
+            {
+              "exercise": "Weight Vest Pull-up",
+              "sets": 5,
+              "reps": 5,
+              "weight": 12
+            }
+          ]
+        }
+      }
+    },
     "Lee Full Body": {
       "Week 1": {
         "Tuesday": {

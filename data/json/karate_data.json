@@ -1,6 +1,6 @@
 {
   "Kihon": [
-    {  
+    {
       "name": "Punching Drills",
       "level": "Beginner",
       "description": "",
@@ -102,91 +102,91 @@
       "name": "Taikyoku Sono Ichi",
       "level": "Beginner",
       "description": "First basic kata",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Taikyoku Sono Ni",
       "level": "Beginner",
       "description": "Second basic kata",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Taikyoku Sono San",
       "level": "Beginner",
       "description": "Third basic kata",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Pinan Sono Ichi",
       "level": "Intermediate",
       "description": "First Pinan kata",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Sokugi Taikyoku Sono Ichi",
       "level": "Beginner",
       "description": "First sokugi taikyoku kata",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Pinan Sono Ni",
       "level": "Intermediate",
       "description": "Second Pinan kata",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Sokugi Taikyoku Sono Ni",
       "level": "Beginner",
       "description": "Second sokugi taikyoku kata",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Pinan Sono San",
       "level": "Intermediate",
       "description": "Third Pinan kata",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Sokugi Taikyoku Sono San",
       "level": "Beginner",
       "description": "Third sokugi taikyoku kata",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Pinan Sono Yon",
       "level": "Intermediate",
       "description": "Fourth Pinan kata",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Sokugi Taikyoku Sono Yon",
       "level": "Beginner",
       "description": "Fourth sokugi taikyoku kata",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Sanchin",
       "level": "Advanced",
       "description": "Advanced kata focusing on breathing and strength",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Pinan Sono Go",
       "level": "Intermediate",
       "description": "Fifth Pinan kata",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Tsuki No Kata",
       "level": "Intermediate",
       "description": "Kata focusing on punches",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Saiha",
       "level": "Advanced",
       "description": "Advanced kata with circular movements",
-      "video_link": ""
+      "video_link": "data/video/0001-0140.mp4"
     },
     {
       "name": "Yantsu",
@@ -291,253 +291,253 @@
       "video_link": ""
     }
   ],
-  
-    "Renraku": [
-        {
-            "name": "10th kyu",
-            "level": "Beginner",
-            "description":"Seiken Gyaku Tsuki (Chudan or Jodan)<br>Mae Geri Chudan Chusoku<br>return and cover.",
-            "video_link": ""
-        },
-        {
-            "name": "9th kyu",
-            "level": "Beginner",
-            "description": "Chudan Mae Geri Chusoku<br>Seiken Gyaku Tsuki Chudan<br>return and cover",
-            "video_link": ""
-        },
-        {
-            "name": "8th Kyu",
-            "level": "Beginner",
-            "description": "Chudan Soto Uke<br>Seiken Mae Gedan Barai<br>Seiken Gyaku Tsuki Chudan<br>return and cover.",
-            "video_link": ""
-        },
-        {
-            "name": "7th Kyu",
-            "level": "Beginner",
-            "description": "Step forward Seiken Gyaku Tsuki Chudan<br>Hidari Mae Geri Chudan Chusoko<br>Migi Mae GeriChudan Chusoko<br>Seiken Gyaku Tsuki Chudan<br>return and cover",
-            "video_link": ""
-        },
-        {
-            "name": "6th Kyu",
-            "level": "Intermediate",
-            "description": "(Free Style stance) Gedan Mawashi Geri (Chusoko or Haisoku)<br>Seiken Gyaku Tsuki Chudan<br>return and cover.",
-            "video_link": ""
-        },
-        {
-            "name": "5th Kyu",
-            "level": "Intermediate",
-            "description": "Chudan Mae Yoko Geri<br>Seiken Gyaku Tsuki Chudan<br>return and cover",
-            "video_link": ""
-        },
-        {
-            "name": "4th Kyu",
-            "level": "Intermediate",
-            "description": "Chudan Ushiro Geri<br>Seiken Gyaku Tsuki Chudan<br>return and cover.",
-            "video_link": ""
-        },
-        {
-            "name": "3rd Kyu",
-            "level": "Intermediate",
-            "description": "Mae Geri Chudan Chusoku<br>Yoko Geri Chudan<br>Ushiro Geri Chudan<br>Seiken Gyaku Tsuki Chudan<br>return and cover",
-            "video_link": ""
-        },
-        {
-            "name": "2nd Kyu",
-            "level": "Intermediate",
-            "description": "Move back and block Seiken Mae Gedan Barai<br>slide forward Seiken Ago Uchi<br>slide forward Seiken Gyaku Tsuki Chudan one step Mae Geri Chudan<br>followed by Mawashi Geri Jodan<br>Ushiro Gewri Chudan<br>Seiken Mae Gedan Barai<br>Seiken Gyaku Tsuki Chudan<br>return and cover<br>(Fist to be held closed at all times)",
-            "video_link": ""
-        },
-        {
-            "name": "1st Kyu",
-            "level": "Intermediate",
-            "description": "Seiken Oi Tsuki<br>Seiken Gyaku Tsuki<br>Seiken Oi Tsuki<br>Shita Tsuki with facial cover<br>return and cover",
-            "video_link": ""
-        },
-        {
-            "name": "1st Dan",
-            "level": "Intermediate",
-            "description": "Front leg Mawashi Geri Jodan<br>same hand Seiken Oi Tsuki Chudan<br>Seiken Gyaku Tsuki back leg Mawashi Geri Jodan<br>return and cover",
-            "video_link": ""
-        }
-    ],
-    "Renzuku": [
-        {
-            "name": "10th kyu",
-            "level": "Beginner",
-            "description": "1. Zenkutsu dashi, chudan seikan morote tuski. Leave lead hand out, strike chudan seikan gyaku tsuki, jodan oi tsuki, gedan gyaku tsuki<br>2. Step forward zenkutsu dashi, seikan jodan uke, seikan gedan barrai, chudan shuto uke, uraken gamen uchi, chudan seikan gyaku tsuki<br>3. Grab forward, flair elbows Hiza gammen gerri, kintaki geri, mae geri kikomi stepping in to kame dachi strike ago uchi",
-            "video_link": ""
-        },
-        {
-            "name": "9th kyu",
-            "level": "Beginner",
-            "description": "1. Zenkutsu Dashi, Shuto Ganmen uchi. Kiba Dashi, Uraken sayo uchi. Zenkutsu Dashi, Seiken Chudan Uchi Uke<br>2. Step into Kokustsu Dashi, shita tsuki, Hiji Jodan Ate, slide into zenkutsu dashi Seikan Chudan Soto Uke<br>3. Uchi Mawashi kiage, soto mawashi kiage",
-            "video_link": ""
-        },
-        {
-            "name": "8th Kyu",
-            "level": "Beginner",
-            "description": "1. 90 degree kiba dachi, Chudan Jun Tsuki, uraken hizo uchi. Step across into zenkutsu dachi, chudan morote uchi uke, gedan barai, chudan uchi uke<br>2. Step into kokutsu dachi, Oi uraken mawashi ganmen uchi, guaku chudan tate Tsuki. Slide forward into zenkutsu dachi, Oi shuto sakotsu uchi<br>3. Turn 90 degees, yoko keage, bring leg back, jodan mae geri bring leg back, gedan mawashi geri step forward.",
-            "video_link": ""
-        },
-        {
-            "name": "7th Kyu",
-            "level": "Intermediate",
-            "description": "1. Step into kokutsu dachi, block shuto mawashi uke, then strike Tettsui Komi Kami. Slide forward into zenkutsu dachi strike, gyaku Tettsui Oroshi Ganmen Uchi followed by Oi Tettsui Hiza Uchi<br>2. Step into zenkutsu dachi, strike Oi shuto uchi uke, gyaku shuto sakotsu uchi komi., Oi shuto hizo uchi<br>3. Rear leg chudan mawashi geri(return foot to rear) gedan Kakato geri, step forward into zenkutsu dachi",
-            "video_link": ""
-        },
-        {
-            "name": "6th Kyu",
-            "level": "Intermediate",
-            "description": "1. Step into zenkutsu dachi, strike Oi jodan nihon nukite, gyaku chudan yohon nukite, Oi Uraken oroshi ganmen uchi<br>2. Step into zenkutsu dachi, block gedan seiken juji uke, seiken jodan juji uke<br>3. Kansetsu geri, return foot to the rear then Chudan Yoko Geri.step forward into zenkutsu dachi",
-            "video_link": ""
-        },
-        {
-            "name": "5th Kyu",
-            "level": "Intermediate",
-            "description": "1. Step into zenkutsu dachi, block, Oi seiken jodan uchi uke, Oi jodan Shotei uchi<br>2. Step through into kiba dachi (facing to the front) and mae shuto mawashi uke then Ushiro hiji ate (same arm), mae chudan hiji ate (same arm), step forward into migi zenkutsu dachi with Oi age hiji ate, jodan oroshi hiji ate (same arm)<br>3. Jodan mawashi geri with rear leg and step forward into zenkutsu dachi",
-            "video_link": ""
-        },
-        {
-            "name": "4th Kyu",
-            "level": "Intermediate",
-            "description": "1. From zenkutsu dachi, (with rear leg) Ushiro geri into kokutsu dachi, Oi Osai uke, gyaku Furi uch<br>2. Rear leg Ushiro mawashi Kakato geri into kokutsu dachi, Oi gedan Shotei uke, Jodan Morote Shotei uke<br>3. Rear leg Ushiro Uchi mawashi geri into zenkutsu dachi",
-            "video_link": ""
-        },
-        {
-            "name": "3rd Kyu",
-            "level": "Advanced",
-            "description": "1. Step into zenkutsu dachi and block jodan shuto juji uke followed by gedan shuto juji uke<br>2. With your rearleg execute uchi oroshi kakato geri (and return leg to rear), then soto oroshi kakato geri step into zenkutsu dachi.<br>3. Step forward into kake dachi, then execute kake geri, followed by Ushiro Mawashi Kakato Geri.",
-            "video_link": ""
-        }
-    ],
-    "Hojo Undo": [
-        {
-            "name": "Nigiri Game",
-            "level": "Intermediate",
-            "description": "Strengthening exercise using gripping jars",
-            "video_link": ""
-        },
-        {
-            "name": "Ishi Sashi",
-            "level": "Intermediate",
-            "description": "Strengthening exercise using stone weights",
-            "video_link": ""
-        },
-        {
-            "name": "Chi Ishi",
-            "level": "Intermediate",
-            "description": "Strengthening exercise using lever weights",
-            "video_link": ""
-        },
-        {
-            "name": "Makiwara",
-            "level": "Advanced",
-            "description": "Training device for striking practice",
-            "video_link": ""
-        },
-        {
-            "name": "Kongoken",
-            "level": "Advanced",
-            "description": "Training device for strength and conditioning",
-            "video_link": ""
-        },
-        {
-            "name": "Tan",
-            "level": "Beginner",
-            "description": "Strengthening exercise using a wooden bar",
-            "video_link": ""
-        },
-        {
-            "name": "Tetsu",
-            "level": "Beginner",
-            "description": "Strengthening exercise using a metal bar",
-            "video_link": ""
-        }
-    ],
-    "Body Weight Exercises": [
-        {
-            "name": "Pushups",
-            "level": "Beginner",
-            "description": "A basic exercise for upper body strength",
-            "video_link": ""
-        },
-        {
-            "name": "Situps",
-            "level": "Beginner",
-            "description": "A basic exercise for core strength",
-            "video_link": ""
-        },
-        {
-            "name": "Squats",
-            "level": "Beginner",
-            "description": "A basic exercise for lower body strength",
-            "video_link": ""
-        },
-        {
-            "name": "Burpees",
-            "level": "Intermediate",
-            "description": "A full body exercise combining a squat, pushup, and jump",
-            "video_link": ""
-        },
-        {
-            "name": "Mountain Climbers",
-            "level": "Intermediate",
-            "description": "A cardio exercise that also strengthens the core",
-            "video_link": ""
-        },
-        {
-            "name": "Planks",
-            "level": "Intermediate",
-            "description": "An isometric core strength exercise",
-            "video_link": ""
-        },
-        {
-            "name": "Leg Raises",
-            "level": "Beginner",
-            "description": "An exercise for lower abs and hip flexors",
-            "video_link": ""
-        },
-        {
-            "name": "Lunges",
-            "level": "Beginner",
-            "description": "A basic exercise for lower body strength and balance",
-            "video_link": ""
-        },
-        {
-            "name": "Jumping Jacks",
-            "level": "Beginner",
-            "description": "A cardio exercise that involves jumping with legs spread and hands overhead",
-            "video_link": ""
-        },
-        {
-            "name": "High Knees",
-            "level": "Beginner",
-            "description": "A cardio exercise that involves jogging in place with high knees",
-            "video_link": ""
-        },
-        {
-            "name": "Butt Kicks",
-            "level": "Beginner",
-            "description": "A cardio exercise that involves jogging in place while kicking your heels toward your butt",
-            "video_link": ""
-        },
-        {
-            "name": "Wall Sit",
-            "level": "Beginner",
-            "description": "An isometric exercise for the lower body done while sitting against a wall",
-            "video_link": ""
-        },
-        {
-            "name": "Superman",
-            "level": "Beginner",
-            "description": "An exercise for the lower back done while lying on your stomach and lifting your arms and legs",
-            "video_link": ""
-        },
-        {
-            "name": "Bicycle Crunch",
-            "level": "Intermediate",
-            "description": "A core exercise that involves pedaling your legs in the air while doing a crunch",
-            "video_link": ""
-        }
-    ]
+
+  "Renraku": [
+    {
+      "name": "10th kyu",
+      "level": "Beginner",
+      "description": "<ul><li>Seiken Gyaku Tsuki (Chudan or Jodan)</li><li>Mae Geri Chudan Chusoku</li><li>return and cover.</li></ul>",
+      "video_link": ""
+    },
+    {
+      "name": "9th kyu",
+      "level": "Beginner",
+      "description": "<ul><li>Chudan Mae Geri Chusoku</li><li>Seiken Gyaku Tsuki Chudan</li><li>return and cover</li></ul>",
+      "video_link": ""
+    },
+    {
+      "name": "8th Kyu",
+      "level": "Beginner",
+      "description": "<ul><li>Chudan Soto Uke</li><li>Seiken Mae Gedan Barai</li><li>Seiken Gyaku Tsuki Chudan</li><li>return and cover.</li></ul>",
+      "video_link": ""
+    },
+    {
+      "name": "7th Kyu",
+      "level": "Beginner",
+      "description": "<ul><li>Step forward Seiken Gyaku Tsuki Chudan</li><li>Hidari Mae Geri Chudan Chusoko</li><li>Migi Mae GeriChudan Chusoko</li><li>Seiken Gyaku Tsuki Chudan</li><li>return and cover</li></ul>",
+      "video_link": ""
+    },
+    {
+      "name": "6th Kyu",
+      "level": "Intermediate",
+      "description": "<ul><li>(Free Style stance) Gedan Mawashi Geri (Chusoko or Haisoku)</li><li>Seiken Gyaku Tsuki Chudan</li><li>return and cover.</li><ul>",
+      "video_link": ""
+    },
+    {
+      "name": "5th Kyu",
+      "level": "Intermediate",
+      "description": "<ul><li>Chudan Mae Yoko Geri</li><li>Seiken Gyaku Tsuki Chudan</li><li>return and cover</li></ul>",
+      "video_link": ""
+    },
+    {
+      "name": "4th Kyu",
+      "level": "Intermediate",
+      "description": "<ul><li>Chudan Ushiro Geri</li><li>Seiken Gyaku Tsuki Chudan</li><li>return and cover.</li></ul>",
+      "video_link": ""
+    },
+    {
+      "name": "3rd Kyu",
+      "level": "Intermediate",
+      "description": "<ul><li>Mae Geri Chudan Chusoku</li><li>Yoko Geri Chudan</li><li>Ushiro Geri Chudan</li><li>Seiken Gyaku Tsuki Chudan</li><li>return and cover</li></ul>",
+      "video_link": ""
+    },
+    {
+      "name": "2nd Kyu",
+      "level": "Intermediate",
+      "description": "<ul><li>Move back and block Seiken Mae Gedan Barai</li><li>slide forward Seiken Ago Uchi</li><li>slide forward Seiken Gyaku Tsuki Chudan one step Mae Geri Chudan</li><li>followed by Mawashi Geri Jodan</li><li>Ushiro Gewri Chudan</li><li>Seiken Mae Gedan Barai</li><li>Seiken Gyaku Tsuki Chudan</li><li>return and cover</li><li>(Fist to be held closed at all times)</li></ul>",
+      "video_link": ""
+    },
+    {
+      "name": "1st Kyu",
+      "level": "Intermediate",
+      "description": "<ul><li>Seiken Oi Tsuki</li><li>Seiken Gyaku Tsuki</li><li>Seiken Oi Tsuki</li><li>Shita Tsuki with facial cover</li><li>return and cover</li></ul>",
+      "video_link": ""
+    },
+    {
+      "name": "1st Dan",
+      "level": "Intermediate",
+      "description": "<ul><li>Front leg Mawashi Geri Jodan</li><li>same hand Seiken Oi Tsuki Chudan</li><li>Seiken Gyaku Tsuki back leg Mawashi Geri Jodan</li><li>return and cover</li></ul>",
+      "video_link": ""
+    }
+  ],
+  "Renzuku": [
+    {
+      "name": "10th kyu",
+      "level": "Beginner",
+      "description": "<ol><li>Zenkutsu dashi, chudan seikan morote tuski. Leave lead hand out, strike chudan seikan gyaku tsuki, jodan oi tsuki, gedan gyaku tsuki</li><li>Step forward zenkutsu dashi, seikan jodan uke, seikan gedan barrai, chudan shuto uke, uraken gamen uchi, chudan seikan gyaku tsuki</li><li>Grab forward, flair elbows Hiza gammen gerri, kintaki geri, mae geri kikomi stepping in to kame dachi strike ago uchi</li></ol>",
+      "video_link": ""
+    },
+    {
+      "name": "9th kyu",
+      "level": "Beginner",
+      "description": "<ol><li>Zenkutsu Dashi, Shuto Ganmen uchi. Kiba Dashi, Uraken sayo uchi. Zenkutsu Dashi, Seiken Chudan Uchi Uke</li><li>Step into Kokustsu Dashi, shita tsuki, Hiji Jodan Ate, slide into zenkutsu dashi Seikan Chudan Soto Uke</li><li>Uchi Mawashi kiage, soto mawashi kiage</li></ol>",
+      "video_link": ""
+    },
+    {
+      "name": "8th Kyu",
+      "level": "Beginner",
+      "description": "<ol><li>90 degree kiba dachi, Chudan Jun Tsuki, uraken hizo uchi. Step across into zenkutsu dachi, chudan morote uchi uke, gedan barai, chudan uchi uke</li><li>Step into kokutsu dachi, Oi uraken mawashi ganmen uchi, guaku chudan tate Tsuki. Slide forward into zenkutsu dachi, Oi shuto sakotsu uchi</li><li>Turn 90 degees, yoko keage, bring leg back, jodan mae geri bring leg back, gedan mawashi geri step forward.</li></ol>",
+      "video_link": ""
+    },
+    {
+      "name": "7th Kyu",
+      "level": "Intermediate",
+      "description": "<ol><li>Step into kokutsu dachi, block shuto mawashi uke, then strike Tettsui Komi Kami. Slide forward into zenkutsu dachi strike, gyaku Tettsui Oroshi Ganmen Uchi followed by Oi Tettsui Hiza Uchi</li><li>Step into zenkutsu dachi, strike Oi shuto uchi uke, gyaku shuto sakotsu uchi komi., Oi shuto hizo uchi</li><li>Rear leg chudan mawashi geri(return foot to rear) gedan Kakato geri, step forward into zenkutsu dachi.</li></ol>",
+      "video_link": ""
+    },
+    {
+      "name": "6th Kyu",
+      "level": "Intermediate",
+      "description": "<ol><li>Step into zenkutsu dachi, strike Oi jodan nihon nukite, gyaku chudan yohon nukite, Oi Uraken oroshi ganmen uchi</li><li>Step into zenkutsu dachi, block gedan seiken juji uke, seiken jodan juji uke</li><li>Kansetsu geri, return foot to the rear then Chudan Yoko Geri.step forward into zenkutsu dachi.</li></ol>",
+      "video_link": ""
+    },
+    {
+      "name": "5th Kyu",
+      "level": "Intermediate",
+      "description": "<ol><li>Step into zenkutsu dachi, block, Oi seiken jodan uchi uke, Oi jodan Shotei uchi</li><li>Step through into kiba dachi (facing to the front) and mae shuto mawashi uke then Ushiro hiji ate (same arm), mae chudan hiji ate (same arm), step forward into migi zenkutsu dachi with Oi age hiji ate, jodan oroshi hiji ate (same arm)</li><li>Jodan mawashi geri with rear leg and step forward into zenkutsu dachi.</li></ol>",
+      "video_link": ""
+    },
+    {
+      "name": "4th Kyu",
+      "level": "Intermediate",
+      "description": "<ol><li>From zenkutsu dachi, (with rear leg) Ushiro geri into kokutsu dachi, Oi Osai uke, gyaku Furi uchi.</li><li>Rear leg Ushiro mawashi Kakato geri into kokutsu dachi, Oi gedan Shotei uke, Jodan Morote Shotei uke.</li><li>Rear leg Ushiro Uchi mawashi geri into zenkutsu dachi",
+      "video_link": ""
+    },
+    {
+      "name": "3rd Kyu",
+      "level": "Advanced",
+      "description": "<ol><li>Step into zenkutsu dachi and block jodan shuto juji uke followed by gedan shuto juji uke</li><li>With your rear leg execute uchi oroshi kakato geri (and return leg to rear), then soto oroshi kakato geri step into zenkutsu dachi.</li><li>Step forward into kake dachi, then execute kake geri, followed by Ushiro Mawashi Kakato Geri.</li></ol>",
+      "video_link": ""
+    }
+  ],
+  "Hojo Undo": [
+    {
+      "name": "Nigiri Game",
+      "level": "Intermediate",
+      "description": "Strengthening exercise using gripping jars",
+      "video_link": ""
+    },
+    {
+      "name": "Ishi Sashi",
+      "level": "Intermediate",
+      "description": "Strengthening exercise using stone weights",
+      "video_link": ""
+    },
+    {
+      "name": "Chi Ishi",
+      "level": "Intermediate",
+      "description": "Strengthening exercise using lever weights",
+      "video_link": ""
+    },
+    {
+      "name": "Makiwara",
+      "level": "Advanced",
+      "description": "Training device for striking practice",
+      "video_link": ""
+    },
+    {
+      "name": "Kongoken",
+      "level": "Advanced",
+      "description": "Training device for strength and conditioning",
+      "video_link": ""
+    },
+    {
+      "name": "Tan",
+      "level": "Beginner",
+      "description": "Strengthening exercise using a wooden bar",
+      "video_link": ""
+    },
+    {
+      "name": "Tetsu",
+      "level": "Beginner",
+      "description": "Strengthening exercise using a metal bar",
+      "video_link": ""
+    }
+  ],
+  "Body Weight Exercises": [
+    {
+      "name": "Pushups",
+      "level": "Beginner",
+      "description": "A basic exercise for upper body strength",
+      "video_link": ""
+    },
+    {
+      "name": "Situps",
+      "level": "Beginner",
+      "description": "A basic exercise for core strength",
+      "video_link": ""
+    },
+    {
+      "name": "Squats",
+      "level": "Beginner",
+      "description": "A basic exercise for lower body strength",
+      "video_link": ""
+    },
+    {
+      "name": "Burpees",
+      "level": "Intermediate",
+      "description": "A full body exercise combining a squat, pushup, and jump",
+      "video_link": ""
+    },
+    {
+      "name": "Mountain Climbers",
+      "level": "Intermediate",
+      "description": "A cardio exercise that also strengthens the core",
+      "video_link": ""
+    },
+    {
+      "name": "Planks",
+      "level": "Intermediate",
+      "description": "An isometric core strength exercise",
+      "video_link": ""
+    },
+    {
+      "name": "Leg Raises",
+      "level": "Beginner",
+      "description": "An exercise for lower abs and hip flexors",
+      "video_link": ""
+    },
+    {
+      "name": "Lunges",
+      "level": "Beginner",
+      "description": "A basic exercise for lower body strength and balance",
+      "video_link": ""
+    },
+    {
+      "name": "Jumping Jacks",
+      "level": "Beginner",
+      "description": "A cardio exercise that involves jumping with legs spread and hands overhead",
+      "video_link": ""
+    },
+    {
+      "name": "High Knees",
+      "level": "Beginner",
+      "description": "A cardio exercise that involves jogging in place with high knees",
+      "video_link": ""
+    },
+    {
+      "name": "Butt Kicks",
+      "level": "Beginner",
+      "description": "A cardio exercise that involves jogging in place while kicking your heels toward your butt",
+      "video_link": ""
+    },
+    {
+      "name": "Wall Sit",
+      "level": "Beginner",
+      "description": "An isometric exercise for the lower body done while sitting against a wall",
+      "video_link": ""
+    },
+    {
+      "name": "Superman",
+      "level": "Beginner",
+      "description": "An exercise for the lower back done while lying on your stomach and lifting your arms and legs",
+      "video_link": ""
+    },
+    {
+      "name": "Bicycle Crunch",
+      "level": "Intermediate",
+      "description": "A core exercise that involves pedaling your legs in the air while doing a crunch",
+      "video_link": ""
+    }
+  ]
 }
