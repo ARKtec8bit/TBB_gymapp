@@ -1,7 +1,7 @@
 import random
 
 from PySide6.QtCore import QDate
-from PySide6.QtWidgets import QWidget, QVBoxLayout, QPushButton, QComboBox, QDateEdit, QLabel, QScrollArea, QFormLayout, \
+from PySide6.QtWidgets import QWidget, QVBoxLayout, QPushButton, QComboBox, QDateEdit, QLabel, QScrollArea, QFormLayout, QGridLayout, \
     QDoubleSpinBox, QSpinBox, QMessageBox
 
 from src.modules.engine import Engine
@@ -34,7 +34,7 @@ class RandomWorkoutTab(QWidget):
         scroll_area = QScrollArea()
         scroll_area.setWidgetResizable(True)
         scroll_content = QWidget()
-        self.scroll_layout = QVBoxLayout(scroll_content)
+        self.scroll_layout = QGridLayout(scroll_content)
         scroll_area.setWidget(scroll_content)
 
         main_layout.addWidget(QLabel("Select User:"))
@@ -61,6 +61,7 @@ class RandomWorkoutTab(QWidget):
         body_parts = set(exercise['body_part'] for exercise in data)
         selected_exercises = {body_part: random.choice([exercise for exercise in data if exercise['body_part'] == body_part]) for body_part in body_parts}
 
+        row, col = 0, 0
         for exercise in selected_exercises.values():
             exercise_widget = QWidget()
             exercise_layout = QVBoxLayout(exercise_widget)
@@ -103,7 +104,12 @@ class RandomWorkoutTab(QWidget):
             exercise_layout.addLayout(set_details_layout)
             exercise_layout.addWidget(volume_label)
 
-            self.scroll_layout.addWidget(exercise_widget)
+            self.scroll_layout.addWidget(exercise_widget, row, col)
+
+            col += 1
+            if col == 3:
+                col = 0
+                row += 1
 
     def update_total_volume(self):
         for i in range(self.scroll_layout.count()):

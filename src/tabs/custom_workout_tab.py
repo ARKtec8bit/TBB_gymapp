@@ -199,7 +199,8 @@ class CustomWorkoutTab(QWidget):
             selected_day = self.day_combo.currentText()
 
             if selected_workout and selected_week and selected_day:
-                workout_data = self.custom_workout_data["Workouts"][selected_workout][selected_week][selected_day]["Weights"]
+                workout_data = self.custom_workout_data["Workouts"][
+                    selected_workout][selected_week][selected_day]["Weights"]
 
                 for i in range(self.scroll_layout.count()):
                     exercise_widget = self.scroll_layout.itemAt(i).widget()

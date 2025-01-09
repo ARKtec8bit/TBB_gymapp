@@ -46,7 +46,12 @@
     { "exercise": "Leg Press", "sets": 2, "reps": 12, "weight": 60 },
     { "exercise": "Landmine Squat", "sets": 2, "reps": 12, "weight": 20 },
     { "exercise": "Landmine Split Squat", "sets": 2, "reps": 12, "weight": 20 },
-    { "exercise": "Front Squat", "sets": 2, "reps": 12, "weight": 40 }
+    { "exercise": "Front Squat", "sets": 2, "reps": 12, "weight": 40 },
+    { "exercise": "Goblet Squat", "sets": 2, "reps": 12, "weight": 40 },
+    { "exercise": "Leg Extension", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Hack Squat", "sets": 2, "reps": 12, "weight": 40 },
+    { "exercise": "Bulgarian Split Squat", "sets": 2, "reps": 12, "weight": 20 },
+    { "exercise": "Step-ups", "sets": 2, "reps": 12, "weight": 20 }
   ],
   "Hamstrings": [
     { "exercise": "Deadlift", "sets": 2, "reps": 10, "weight": 40 },

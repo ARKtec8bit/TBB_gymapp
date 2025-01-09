@@ -102,145 +102,145 @@
       "name": "Taikyoku Sono Ichi",
       "level": "Beginner",
       "description": "First basic kata",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/TS1.mp4"
     },
     {
       "name": "Taikyoku Sono Ni",
       "level": "Beginner",
       "description": "Second basic kata",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/TS2.mp4"
     },
     {
       "name": "Taikyoku Sono San",
       "level": "Beginner",
       "description": "Third basic kata",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/TS3.mp4"
     },
     {
       "name": "Pinan Sono Ichi",
       "level": "Intermediate",
       "description": "First Pinan kata",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/PS1.mp4"
     },
     {
       "name": "Sokugi Taikyoku Sono Ichi",
       "level": "Beginner",
       "description": "First sokugi taikyoku kata",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/Sokugi Taikyoku Sono Ichi.mp4"
     },
     {
       "name": "Pinan Sono Ni",
       "level": "Intermediate",
       "description": "Second Pinan kata",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/PS2.mp4"
     },
     {
       "name": "Sokugi Taikyoku Sono Ni",
       "level": "Beginner",
       "description": "Second sokugi taikyoku kata",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/Sokugi Taikyoku Sono Ni.mp4"
     },
     {
       "name": "Pinan Sono San",
       "level": "Intermediate",
       "description": "Third Pinan kata",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/PS3.mp4"
     },
     {
       "name": "Sokugi Taikyoku Sono San",
       "level": "Beginner",
       "description": "Third sokugi taikyoku kata",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/Sokugi Taikyoku Sono San.mp4"
     },
     {
       "name": "Pinan Sono Yon",
       "level": "Intermediate",
       "description": "Fourth Pinan kata",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/PS4.mp4"
     },
     {
       "name": "Sokugi Taikyoku Sono Yon",
       "level": "Beginner",
       "description": "Fourth sokugi taikyoku kata",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/TS1.mp4"
     },
     {
       "name": "Sanchin",
       "level": "Advanced",
       "description": "Advanced kata focusing on breathing and strength",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/Sanchin.mp4"
     },
     {
       "name": "Pinan Sono Go",
       "level": "Intermediate",
       "description": "Fifth Pinan kata",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/PS5.mp4"
     },
     {
       "name": "Tsuki No Kata",
       "level": "Intermediate",
       "description": "Kata focusing on punches",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/TNK.mp4"
     },
     {
       "name": "Saiha",
       "level": "Advanced",
       "description": "Advanced kata with circular movements",
-      "video_link": "data/video/0001-0140.mp4"
+      "video_link": "data/video/Saifa.mp4"
     },
     {
       "name": "Yantsu",
       "level": "Intermediate",
       "description": "Kata emphasizing defensive movements",
-      "video_link": ""
+      "video_link": "data/video/Yantsu.mp4"
     },
     {
       "name": "Gekisai Dai",
       "level": "Intermediate",
       "description": "First Gekisai kata",
-      "video_link": ""
+      "video_link": "data/video/Gekisai Dai.mp4"
     },
     {
       "name": "Gekisai Sho",
       "level": "Intermediate",
       "description": "Second Gekisai kata",
-      "video_link": ""
+      "video_link": "data/video/Gekisai Sho.mp4"
     },
     {
       "name": "Sepai",
       "level": "Advanced",
       "description": "Advanced kata with complex techniques",
-      "video_link": ""
+      "video_link": "data/video/Seipai.mp4"
     },
     {
       "name": "Tensho",
       "level": "Advanced",
       "description": "Advanced kata focusing on circular movements",
-      "video_link": ""
+      "video_link": "data/video/Tensho.mp4"
     },
     {
       "name": "Garyu",
       "level": "Advanced",
       "description": "Advanced kata with fluid movements",
-      "video_link": ""
+      "video_link": "data/video/Garyu.mp4"
     },
     {
       "name": "Seinchin",
       "level": "Advanced",
       "description": "Advanced kata focusing on strength and stability",
-      "video_link": ""
+      "video_link": "data/video/Seinchin.mp4"
     },
     {
       "name": "Kanku Dai",
       "level": "Advanced",
       "description": "Advanced kata with expansive movements",
-      "video_link": ""
+      "video_link": "data/video/Kanku.mp4"
     },
     {
       "name": "Sushiho",
       "level": "Advanced",
       "description": "Advanced kata with diverse techniques",
-      "video_link": ""
+      "video_link": "data/video/Sushiho.mp4"
     },
     {
       "name": "Bo Kata Taikyoku Sono Ichi",

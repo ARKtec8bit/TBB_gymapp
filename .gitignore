@@ -1,5 +1,10 @@
 **/__pycache__/
-**/src/tabs/__pycache__/*.pyc
+/src/tabs/__pycache__/*.pyc
 *.pyc
 *.sqlite
 data/workout_db.sqlite
+
+*.pyc
+*.pyc
+*.pyc
+/src/tabs/__pycache__
